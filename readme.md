@@ -1,0 +1,1 @@
+git git remote add origin https://github.com/escandonjuan801-boop/nuevo_PROYECTO.git
